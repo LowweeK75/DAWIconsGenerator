@@ -1,0 +1,202 @@
+{
+    "tracks":[
+        {"main":"REC","sub":["soprano","alto","tenor","baryton"],"style":0,"color":"#CDC93A"},
+        {"main":"REC","sub":[""],"style":"folder","color":"#CDC93A"},
+        
+        {"main":"FL","sub":["solo 1","solo 2","solo 3","solo 4"],"style":0,"color":"#A7C939"},
+        {"main":"PIC","sub":["piccolo"],"style":0,"color":"#A7C939"}, 
+        {"main":"FLA","sub":["alto"],"style":0,"color":"#A7C939"},       
+        {"main":"FLB","sub":["bass"],"style":0,"color":"#A7C939"},  
+        {"main":"FL","sub":[""],"style":"folder","color":"#A7C939"},        
+
+        {"main":"OB","sub":["solo 1","solo 2","solo 3","bass"],"style":0,"color":"#6B7D2C"},  
+        {"main":"ANG","sub":["cor ang"],"style":0,"color":"#6B7D2C"}, 
+        {"main":"OB","sub":[""],"style":"folder","color":"#6B7D2C"},  
+        
+        {"main":"CL","sub":["solo 1","solo 2","solo 3","Eb"],"style":0,"color":"#8AA332"},  
+        {"main":"CLB","sub":["bass"],"style":0,"color":"#8AA332"}, 
+        {"main":"CL","sub":[""],"style":"folder","color":"#8AA332"},  
+        
+        {"main":"BSN","sub":["solo 1","solo 2","solo 3"],"style":0,"color":"#4C5723"},  
+        {"main":"CBSN","sub":["ctrbsn"],"style":0,"color":"#4C5723"},         
+        {"main":"BSN","sub":[""],"style":"folder","color":"#4C5723"},  
+        
+        {"main":"SAX","sub":["soprano","alto","tenor","baryton"],"style":0,"color":"#447D2B"},  
+        {"main":"SAX","sub":[""],"style":"folder","color":"#447D2B"},         
+        
+        {"main":"WW","sub":["high","low"],"style":"group","color":"#405723"},
+        {"main":"WW","sub":[""],"style":"folder","color":"#405723"},        
+        
+        {"main":"TPT","sub":["solo 1","solo 2","solo 3","solo 4","solo","a3","a6","bass","piccolo"],"style":0,"color":"#00CBC9"},
+        {"main":"FLUG","sub":["flghorn"],"style":0,"color":"#00CBC9"},  
+        {"main":"CNT","sub":["cornet"],"style":0,"color":"#00CBC9"},  
+        {"main":"TPT","sub":[""],"style":"folder","color":"#00CBC9"},        
+
+        {"main":"HRN","sub":["solo 1","solo 2","solo 3","solo 4","solo 5","solo 6","solo","a3","a6","a12"],"style":0,"color":"#00A4A3"},
+        {"main":"EUP","sub":["euphon 1","euphon 2"],"style":0,"color":"#00A4A3"},  
+        {"main":"HRN","sub":[""],"style":"folder","color":"#00A4A3"},          
+
+        {"main":"TRB","sub":["solo 1","solo 2","solo 3","solo","a3","a6","a12"],"style":0,"color":"#0C7E7D"},
+        {"main":"BTRB","sub":["solo 1","solo 2","solo 3","a3"],"style":0,"color":"#0C7E7D"},
+        {"main":"CTRB","sub":["solo 1","solo 2","solo 3"],"style":0,"color":"#0C7E7D"},  
+        {"main":"TRB","sub":[""],"style":"folder","color":"#0C7E7D"},            
+
+        {"main":"TUB","sub":["solo","contra"],"style":0,"color":"#17574C"},
+        {"main":"CIBS","sub":["cimbas 1","cimbas 2","cimbas 3","a3"],"style":0,"color":"#17574C"},
+        {"main":"TUB","sub":[""],"style":"folder","color":"#17574C"},            
+
+        {"main":"BRS","sub":["high","low","mid","ensemble"],"style":"group","color":"#155757"},
+        {"main":"BRS","sub":[""],"style":"folder","color":"#155757"},
+
+        {"main":"PNO","sub":["concert","upright","electro","ambient"],"style":0,"color":"#433982"},
+        {"main":"HPC","sub":["harpsi"],"style":0,"color":"#342C5A"},
+        {"main":"ORGN","sub":["organ"],"style":0,"color":"#342C5A"},
+        {"main":"KEYS","sub":[""],"style":"folder","color":"#424242"},        
+
+        {"main":"VOX","sub":["woman","girl","man","boy","whistle"],"style":0,"color":"#A40BC4"},
+        {"main":"VOX","sub":[""],"style":"folder","color":"#A40BC4"},             
+
+        {"main":"CHR","sub":["soprano","alto","tenor","baryton","special"],"style":0,"color":"#87189F"},
+        {"main":"CHR","sub":["men","women","girls","boys","other","ethno","ensemble"],"style":"group","color":"#87189F"},
+        {"main":"CHR","sub":[""],"style":"folder","color":"#87189F"},  
+
+        {"main":"CLS","sub":["celesta"],"style":0,"color":"#7F3221"},
+        {"main":"MBX","sub":["musicbox"],"style":0,"color":"#7F3221"},
+        {"main":"GLK","sub":["glockspl"],"style":0,"color":"#7F3221"},
+        {"main":"VIB","sub":["vibphone"],"style":0,"color":"#7F3221"},
+        {"main":"MAR","sub":["marimba"],"style":0,"color":"#7F3221"},
+        {"main":"CRTL","sub":["crotales"],"style":0,"color":"#7F3221"},
+        {"main":"BEL","sub":["tubular"],"style":0,"color":"#7F3221"},
+        {"main":"TKO","sub":["taiko"],"style":"group","color":"#7F3221"}, 
+        {"main":"XYL","sub":["xylo"],"style":0,"color":"#7F3221"},
+        {"main":"TIMP","sub":["timpani"],"style":0,"color":"#7F3221"},   
+        {"main":"HNG","sub":["hangdrum"],"style":0,"color":"#7F3221"},   
+        {"main":"FX","sub":["various"],"style":0,"color":"#7F3221"},   
+        {"main":"KIT","sub":["mixed"],"style":"group","color":"#7F3221"},           
+        {"main":"TUND","sub":[""],"style":"folder","color":"#7F3221"},  
+        
+        {"main":"SML","sub":["small"],"style":0,"color":"#58281D"},
+        {"main":"HND","sub":["handperc"],"style":0,"color":"#58281D"},
+        {"main":"SNR","sub":["snare"],"style":0,"color":"#58281D"},
+        {"main":"FLD","sub":["field"],"style":0,"color":"#58281D"},
+        {"main":"BDR","sub":["bassdrum"],"style":0,"color":"#58281D"},
+        {"main":"GCA","sub":["grancassa"],"style":0,"color":"#58281D"},
+        {"main":"TOM","sub":["toms"],"style":0,"color":"#58281D"},
+        {"main":"PTI","sub":["piatti"],"style":0,"color":"#58281D"},
+        {"main":"CYB","sub":["cymbals"],"style":0,"color":"#58281D"},   
+        {"main":"TTM","sub":["tamtams"],"style":0,"color":"#58281D"},   
+        {"main":"GNG","sub":["gongs"],"style":0,"color":"#58281D"},   
+        {"main":"MKT","sub":["marktree"],"style":0,"color":"#58281D"},  
+        {"main":"HI","sub":["high"],"style":"group","color":"#58281D"},  
+        {"main":"LO","sub":["low"],"style":"group","color":"#58281D"},  
+        {"main":"MTL","sub":["metal"],"style":"group","color":"#58281D"},  
+        {"main":"WOD","sub":["wood"],"style":"group","color":"#58281D"},  
+        {"main":"FX","sub":["fx"],"style":"group","color":"#58281D"},  
+        {"main":"KIT","sub":["kit"],"style":"group","color":"#58281D"},           
+        {"main":"UNTD","sub":[""],"style":"folder","color":"#58281D"},
+
+        {"main":"FRM","sub":["frame"],"style":0,"color":"#7F4222"},  
+        {"main":"RN","sub":["rainmaker"],"style":0,"color":"#7F4222"},  
+        {"main":"TNK","sub":["small","big"],"style":0,"color":"#7F4222"},  
+        {"main":"POT","sub":["pots"],"style":"group","color":"#7F4222"},  
+        {"main":"TKO","sub":["taiko"],"style":"group","color":"#7F4222"},  
+        {"main":"ARBN","sub":["arabian"],"style":"group","color":"#7F4222"},   
+        {"main":"KIT","sub":["kit"],"style":"group","color":"#7F4222"},           
+        {"main":"ETHD","sub":[""],"style":"folder","color":"#7F4222"},
+
+        
+        {"main":"HRP","sub":["solo"],"style":0,"color":"#1A83D0"}, 
+        {"main":"HRP","sub":["combi"],"style":"group","color":"#1A83D0"}, 
+        {"main":"HRP","sub":[""],"style":"folder","color":"#1A83D0"},
+
+        {"main":"VLN","sub":["solo"],"style":0,"color":"#CDC93A","invert":1}, 
+        {"main":"VLN","sub":[""],"style":"folder","color":"#CDC93A","invert":1},
+
+        {"main":"VL1","sub":["chamber","large","special"],"style":0,"color":"#CDC93A","invert":1}, 
+        {"main":"VL1","sub":[""],"style":"folder","color":"#CDC93A","invert":1},       
+
+        {"main":"VL2","sub":["solo","chamber","large"],"style":0,"color":"#CDA330","invert":1}, 
+        {"main":"VL2","sub":[""],"style":"folder","color":"#CDA330","invert":1},   
+
+        {"main":"VLA","sub":["solo","chamber","large"],"style":0,"color":"#CD7A26","invert":1}, 
+        {"main":"VLA","sub":[""],"style":"folder","color":"#CD7A26","invert":1}, 
+
+        {"main":"CLO","sub":["solo","chamber","large"],"style":0,"color":"#CE561E","invert":1}, 
+        {"main":"CLO","sub":[""],"style":"folder","color":"#CE561E","invert":1}, 
+
+        {"main":"CBA","sub":["solo","chamber","large"],"style":0,"color":"#CE3419","invert":1}, 
+        {"main":"CBA","sub":[""],"style":"folder","color":"#CE3419","invert":1}, 
+
+        {"main":"STRG","sub":["hi","mid","lo","alea","ensemble","FX"],"style":"group","color":"#CE3419","invert":1}, 
+        {"main":"STRG","sub":[""],"style":"folder","color":"#CE3419","invert":1},        
+
+        {"main":"SYNT","sub":["vintage","modern"],"style":0,"color":"#00CB85"}, 
+        {"main":"SYNT","sub":[""],"style":"folder","color":"#00CB85"},    
+
+        {"main":"DRMS","sub":["acoustic","electro","hybrid"],"style":0,"color":"#58321E"}, 
+        {"main":"DRMS","sub":[""],"style":"folder","color":"#58321E"}, 
+
+        {"main":"GT","sub":["acoustic","elec"],"style":0,"color":"#11A440"}, 
+        {"main":"BS","sub":["upright","elec","synth"],"style":0,"color":"#11A440"}, 
+        {"main":"GTBS","sub":[""],"style":"folder","color":"#11A440"},         
+
+        {"main":"FX","sub":["FX","riser","downer","kit","hits"],"style":0,"color":"#3D2A5A"}, 
+        {"main":"FX","sub":[""],"style":"folder","color":"#3D2A5A"},
+
+        {"main":"STEM","sub":["wwinds","brass","choir","strings","harp","tuned","percs","drums","keys","orchestra","gt&bass","vocals","other"],"style":0,"color":"#CC00A0","invert":1}, 
+        {"main":"MSTR","sub":["master"],"style":0,"color":"#CC00A0","invert":1}, 
+        {"main":"OUT","sub":["main out"],"style":0,"color":"#CC00A0","invert":1},        
+        {"main":"STEM","sub":[""],"style":"folder","color":"#CC00A0","invert":1},
+
+        {"main":"CBLM","sub":["cymbalom"],"style":0,"color":"#2B69D1"}, 
+        {"main":"KTLE","sub":["kantele"],"style":0,"color":"#2B69D1"}, 
+        {"main":"FLT","sub":["flute"],"style":0,"color":"#2B69D1"}, 
+        {"main":"DLMR","sub":["dulcimer"],"style":0,"color":"#2B69D1"}, 
+        {"main":"FIDL","sub":["fiddle"],"style":0,"color":"#2B69D1"}, 
+        {"main":"BRS","sub":["brass"],"style":0,"color":"#2B69D1"}, 
+        {"main":"WW","sub":["winds"],"style":0,"color":"#2B69D1"}, 
+        {"main":"ACDN","sub":["accordion"],"style":0,"color":"#2B69D1"}, 
+        {"main":"HARP","sub":["harp"],"style":0,"color":"#2B69D1"}, 
+        {"main":"DDK","sub":["duduk"],"style":0,"color":"#2B69D1"},    
+        {"main":"BASS","sub":["bass"],"style":0,"color":"#2B69D1"},  
+        {"main":"HDRM","sub":["hand drum"],"style":0,"color":"#2B69D1"},          
+        {"main":"EURO","sub":[""],"style":"folder","color":"#2B69D1"},
+
+        {"main":"FLT","sub":["flt type"],"style":0,"color":"#1A83D0"}, 
+        {"main":"OCAR","sub":["ocarina"],"style":0,"color":"#1A83D0"},   
+        {"main":"CLA","sub":["clari type"],"style":0,"color":"#1A83D0"}, 
+        {"main":"OBOE","sub":["oboe type"],"style":0,"color":"#1A83D0"},   
+        {"main":"ASWW","sub":[""],"style":"folder","color":"#1A83D0"},
+        {"main":"ASIA","sub":[""],"style":"folder","color":"#1A83D0"},
+
+        {"main":"AFRO","sub":[""],"style":"folder","color":"#555555"},      
+
+        {"main":"VLN","sub":["violin"],"style":0,"color":"#2970A8"}, 
+        {"main":"ERHU","sub":["solo","ensemble"],"style":0,"color":"#2970A8"},   
+        {"main":"VLA","sub":["solo","ensemble"],"style":0,"color":"#2970A8"}, 
+        {"main":"KHUR","sub":["solo","ensemble"],"style":0,"color":"#2970A8"},   
+        {"main":"ASTR","sub":[""],"style":"folder","color":"#2970A8"},
+
+        {"main":"MNDO","sub":["mandolin"],"style":0,"color":"#2A5980"}, 
+        {"main":"PIPA","sub":["pipa"],"style":0,"color":"#2A5980"},   
+        {"main":"YQIN","sub":["yangqin"],"style":0,"color":"#2A5980"}, 
+        {"main":"GZNG","sub":["guzheng"],"style":0,"color":"#2A5980"},   
+        {"main":"LUTH","sub":["luth"],"style":0,"color":"#2A5980"}, 
+        {"main":"APLK","sub":[""],"style":"folder","color":"#2A5980"},
+
+        {"main":"KIT","sub":["solo","ensemble"],"style":"group","color":"#2A5980"}, 
+        {"main":"CYMB","sub":["cymbals"],"style":0,"color":"#2A5980"},   
+        {"main":"GONG","sub":["gongs"],"style":0,"color":"#2A5980"}, 
+        {"main":"WOOD","sub":["woods"],"style":0,"color":"#2A5980"},   
+        {"main":"BOWL","sub":["bowl"],"style":0,"color":"#2A5980"}, 
+        {"main":"APRC","sub":[""],"style":"folder","color":"#2A5980"},
+        
+        {"main":"CHR","sub":["men","women","full"],"style":"group","color":"#2B2E5A"}, 
+        {"main":"AVOX","sub":[""],"style":"folder","color":"#2B2E5A"},
+
+        {"main":"LEAD","sub":["man","woman"],"style":0,"color":"#A40BC4"}, 
+        {"main":"BKGD","sub":["man","woman","ensemble"],"style":0,"color":"#A40BC4"}, 
+        {"main":"VOCA","sub":[""],"style":"folder","color":"#A40BC4"}
+        
+    ]
+}
