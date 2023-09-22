@@ -28,4 +28,5 @@ example.png : an example of picture thumbnails
 # License
 Scripts is free to reuse, but if you plan to release your own version, plesae cite me.
 
-
+# Example
+![Screenshot](example.png)
