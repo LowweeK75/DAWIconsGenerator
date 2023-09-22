@@ -21,7 +21,7 @@ This script has been done for Logic Pro X but should be of good use for Cubase, 
 
 
 ## Installing and executing
-- **Copy all resources** in your Python 3.1 enviromnment. I recommend creating a directory for this project
+- **Copy all resources** in your Python 3.1 enviromnment. I recommend creating a directory for this project.
 - Make sure that you allow the creation of subdirectories
 - **Edit the file tracks.json** with any text editor and adapt it to your needs, following the guidelines described in the script or below
 - For Python users : **execute icons-maker.py**
@@ -33,11 +33,11 @@ Scripts is ** free to reuse**, but if you plan to release your own version, ples
 I won't offer any support for this script, and won't consider feature requests.
 I might just upload newer version according to my needs.
 
-## track.json editing guidelines
+## tracks.json editing guidelines
 
 Each line should have the following structure : `{"main":"TPT","sub":["solo 1","solo 2","solo 3","solo 4","solo","a3","a6","bass","piccolo"],"style":0,"color":"#00CBC9","invert":1},`
 - **main** : contains the main text of the icon. Mandatory. I advise to stay between 2 and 4 characters.
-- **sub** : contains a list of variations in brackets. Each variation will generate an icon, with the main text on top and the smaller variation below . Can be set to [""] if you don't want any variation/subtext. I advise to stay below 8 characters
+- **sub** : contains a list of variations in brackets. Each variation will generate an icon, with the main text on top and the smaller variation below . Can be set to [""] if you don't want any variation/subtext. I advise to stay below 8 characters.
 - **style** : can take 3 values (mandatory) :
   - 0 creates a regular icon
   - "group" creates an icon with an outline. I use this for ensemble libraries
