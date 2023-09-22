@@ -21,7 +21,7 @@ These icons are espcially for use with DAW : Logic Pro, Cubase, Studio One, Reap
 - emboss128.png : exemple of 128x128 png to create emboss effect
 
 
-# Installing & executing
+# Installing and executing
 - Copy all resources in your Python 3.1 enviromnment. I recommend creating a directory for this project
 - Make sure that you allow the creation of subdirectories
 - For Python users : execute icons-maker.py
