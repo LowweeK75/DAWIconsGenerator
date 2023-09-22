@@ -23,6 +23,8 @@ emboss64.png : exemple of 64x64 png to create emboss effect
 
 emboss128.png : exemple of 128x128 png to create emboss effect
 
+example.png : an example of picture thumbnails
+
 # License
 Scripts is free to reuse, but if you plan to release your own version, plesae cite me.
 
